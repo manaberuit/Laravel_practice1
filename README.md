@@ -3,8 +3,10 @@
 
 ### [ログイン画面]  
 ![image1](https://github.com/manaberuit/Laravel_practice1/blob/image/image1.PNG)  
+<hr>
 ### [アカウント作成画面]
 ![image2](https://github.com/manaberuit/Laravel_practice1/blob/image/image2.PNG)  
+<hr>
 
 - ログイン画面にて「アカウント作成」をクリックするとアカウント作成画面に遷移するようにしてください。
 - アカウント作成画面にて「」をクリックするとログイン画面に遷移するようにしてください。
