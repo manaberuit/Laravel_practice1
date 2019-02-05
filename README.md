@@ -2,14 +2,10 @@
 ## 以下と同じページを作成してください
 
 ### [ログイン画面]  
-<hr> </hr>
-![image1](https://github.com/manaberuit/Laravel_practice1/blob/image/image1.PNG)  
-<hr> </hr>
+https://github.com/manaberuit/Laravel_practice1/blob/image/image1.PNG
 
 ### [アカウント作成画面]
-<hr> </hr>
-![image2](https://github.com/manaberuit/Laravel_practice1/blob/image/image2.PNG)  
-<hr> </hr>
+https://github.com/manaberuit/Laravel_practice1/blob/image/image2.PNG
 
 - ログイン画面にて「アカウント作成」をクリックするとアカウント作成画面に遷移するようにしてください。
 - アカウント作成画面にて「」をクリックするとログイン画面に遷移するようにしてください。
